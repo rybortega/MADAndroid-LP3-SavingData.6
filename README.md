@@ -6,7 +6,7 @@
 When the question is clicked, the answer is revealed.
 
 ### App Walk-though
-<img src="g.recordit.co/MdfkU5Cpp7" width=200><br>
+<img src="g.recordit.co/MdfkU5Cpp7.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
