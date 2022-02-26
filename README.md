@@ -1,4 +1,4 @@
-## CodePath Flashcard App
+## Flashcard App
 
 ## Lab 1
 
