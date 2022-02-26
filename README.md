@@ -1,12 +1,14 @@
-## Flashcard App
+## CodePath Flashcard App
 
-## Lab 2
+## Lab 1
 
 ### App Description
 When the question is clicked, the answer is revealed.
 
 ### App Walk-though
-<img src="https://recordit.co/MdfkU5Cpp7" width=200><br>
+<img src="g.recordit.co/MdfkU5Cpp7" width=200><br>
+
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] Create New Project in Android Studio
@@ -14,7 +16,6 @@ When the question is clicked, the answer is revealed.
 - [x] Add a view for the back side of the flashcard to display the answer
 - [x] Build in logic to show the answer side when the card is tapped
 - [x] Push code to GitHub
-
 ## Optional
 - [ ] toggle the flashcard between the question side and the answer side
 - [ ] Style the question and answer side of the card to better distinguish between the two sides
