@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
-        android:text="What year did WW1 start?"
+        android:text="Question"
         android:textSize="40sp" />
 
     <TextView
@@ -18,12 +18,12 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
-        android:text="1914"
+        android:text="Answer"
         android:textSize="40sp"
         android:visibility="invisible" />
 
     <ImageView
-        android:id="@+id/myButton"
+        android:id="@+id/addButton"
         android:layout_width="50dp"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
@@ -31,4 +31,15 @@
         android:adjustViewBounds="true"
         android:scaleType="fitXY"
         android:src="@drawable/ic_iconmonstr_plus_6" />
+
+    <ImageView
+        android:id="@+id/nextButton"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_iconmonstr_arrow_28" />
+
 </RelativeLayout>

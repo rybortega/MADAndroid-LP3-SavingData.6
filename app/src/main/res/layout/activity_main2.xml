@@ -6,7 +6,7 @@
     tools:context=".MainActivity">
 
     <EditText
-        android:id="@+id/editTextField"
+        android:id="@+id/userQuestion"
         android:layout_width="match_parent"
         android:layout_height="70dp"
         android:layout_margin="20dp"
@@ -15,16 +15,16 @@
         android:layout_alignParentTop="true"/>
 
     <EditText
-        android:id="@+id/editTextField2"
+        android:id="@+id/userAnswer"
         android:layout_width="match_parent"
         android:layout_height="70dp"
         android:layout_margin="20dp"
         android:hint="Enter answer here"
         android:layout_alignParentStart="true"
-        android:layout_below="@id/editTextField"/>
+        android:layout_below="@id/userQuestion"/>
 
     <ImageView
-        android:id="@+id/myButton2"
+        android:id="@+id/cancelButton"
         android:layout_width="50dp"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
@@ -42,4 +42,5 @@
         android:adjustViewBounds="true"
         android:scaleType="fitXY"
         android:src="@drawable/ic_iconmonstr_download_2" />
+
 </RelativeLayout>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.codepath_week2_lab">
+    package="com.example.Flashcard_App">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="Flashcard_App"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Codepath_week2_lab">
         <activity
-            android:name=".MainActivity2"
+            android:name="com.example.Flashcard_App.MainActivity2"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.Flashcard_App.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

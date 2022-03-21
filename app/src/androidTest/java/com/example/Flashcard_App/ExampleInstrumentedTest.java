@@ -1,4 +1,4 @@
-package com.example.codepath_week2_lab;
+package com.example.Flashcard_App;
 
 import android.content.Context;
 
