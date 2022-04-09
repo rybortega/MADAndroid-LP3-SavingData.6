@@ -7,6 +7,7 @@ Users are now able to see an animation when they transition flashcards, click on
 
 ### App Walk-though
 <img src="http://g.recordit.co/1BXq4swiUz.gif" width=200><br>
+<img src="https://media4.giphy.com/media/2dmpiiOM83mDca9ZHc/giphy.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
